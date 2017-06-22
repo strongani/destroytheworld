@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
+print("Hello World")
 
 @end
 
